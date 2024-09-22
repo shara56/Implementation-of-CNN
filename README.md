@@ -70,7 +70,7 @@ def reshape_and_normalize(images):
 
 # Apply your function
 training_images = reshape_and_normalize(training_images)
-print('Name: Yuvabharathi.B        RegisterNumber: 212222230181       \n')
+print('Name: Sharangini T K        RegisterNumber: 212222230143       \n')
 print(f"Maximum pixel value after normalization: {np.max(training_images)}\n")
 print(f"Shape of training set after reshaping: {training_images.shape}\n")
 print(f"Shape of one image after reshaping: {training_images[0].shape}")
@@ -131,7 +131,7 @@ training_history = model.fit(training_images, training_labels, epochs=10, callba
 ## OUTPUT
 ### Reshape and Normalize output
 
-![Screenshot 2024-09-22 152921](https://github.com/user-attachments/assets/f0897fbd-c88c-4702-82a5-d6656b2f2ea3)
+![Screenshot 2024-09-22 200339](https://github.com/user-attachments/assets/497f9de1-9a48-4a42-bdd4-62ca0be3ae07)
 
 
 
