@@ -139,6 +139,8 @@ training_history = model.fit(training_images, training_labels, epochs=10, callba
 ![Screenshot 2024-09-22 152942](https://github.com/user-attachments/assets/df2f5428-46c1-49bf-aef7-cf21d3fcbb54)
 
 
+
+
 ## RESULT
 Thus the program for developing a convolutional deep neural network for digit classification.
 
