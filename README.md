@@ -136,7 +136,7 @@ training_history = model.fit(training_images, training_labels, epochs=10, callba
 
 
 ### Training the model output
-![Screenshot 2024-09-22 152942](https://github.com/user-attachments/assets/df2f5428-46c1-49bf-aef7-cf21d3fcbb54)
+![Screenshot 2024-09-23 101756](https://github.com/user-attachments/assets/ae33f80d-00d2-4cbe-aaeb-ae0a3a439cf2)
 
 
 
